@@ -33,5 +33,5 @@ Me apasiona crear soluciones digitales escalables, intuitivas y fáciles de usar
 🔹 Busco seguir creciendo como **Backend/Full Stack Developer** y aportar valor en proyectos reales.
 
 📫 **Contacto:**  
-- LinkedIn: [[linkedin.com/in/waltersager](#)](https://www.linkedin.com/in/walter-sager-082b27303/)  
+- LinkedIn: [Walter Sager](https://www.linkedin.com/in/walter-sager-082b27303/)  
 - Email: walter.sager@gmail.com  
