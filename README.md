@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Walter
 
-<!--
-**WalterSager/waltersager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Full Stack Developer en formación** con experiencia en **JavaScript, TypeScript, React, Node.js, MySQL y MongoDB**.  
+Me apasiona crear soluciones digitales escalables, intuitivas y fáciles de usar, aplicando buenas prácticas de desarrollo y metodologías modernas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y Herramientas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+---
+
+## 🌟 Proyecto Destacado
+
+- [**La Beba Padel Club**](https://labebapadel.com)  
+  Plataforma web integral para la gestión de reservas fijas, torneos, ranking de jugadores, noticias y carrusel dinámico.  
+  Tecnologías: **React + Node.js + MongoDB + Express**  
+
+---
+
+## 🤝 Sobre mí
+
+🔹 Valoro el **trabajo en equipo**, la **comunicación clara** y la **resolución de problemas**.  
+🔹 Me gusta aprender rápido y aportar en entornos colaborativos.  
+🔹 Busco seguir creciendo como **Backend/Full Stack Developer** y aportar valor en proyectos reales.
+
+📫 **Contacto:**  
+- LinkedIn: [[linkedin.com/in/waltersager](#)](https://www.linkedin.com/in/walter-sager-082b27303/)  
+- Email: walter.sager@gmail.com  
