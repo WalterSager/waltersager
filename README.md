@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Walter
 
-**Desarrollador Full Stack** con experiencia en **JavaScript, TypeScript, React, Node.js, MySQL y MongoDB**.  
+**Desarrollador Full Stack**
 Me apasiona crear soluciones digitales escalables, intuitivas y fáciles de usar, aplicando buenas prácticas de desarrollo y metodologías modernas.
 
 ---
