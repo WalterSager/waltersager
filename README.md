@@ -21,7 +21,16 @@ Me apasiona crear soluciones digitales escalables, intuitivas y fáciles de usar
 
 ---
 
-## 🌟 Proyecto Destacado
+## 🌟 Proyectos Personales
+
+- [**Portfolio**](https://wsager.dev)
+  Sitio web interactivo y animado que presenta mis habilidades, tecnologías, proyectos y trayectoria profesional.
+  Tecnologías: **Next.js + TypeScript + Framer Motion + Tailwind CSS**
+
+- [**SagerFix**](https://sagerfix.store)
+  Aplicación web para consultar y cotizar celulares disponibles (en stock y bajo pedido) en pesos argentinos, calculados a partir del valor del dólar blue.
+  El sitio ofrece un catálogo filtrable, paginado y con contacto directo vía WhatsApp.
+  Tecnologías: **Next.js + TypeScript + Tailwind**
 
 - [**La Beba Padel Club**](https://labebapadel.com)  
   Plataforma web integral para la gestión de reservas fijas, torneos, ranking de jugadores, noticias y carrusel dinámico.  
@@ -36,5 +45,5 @@ Me apasiona crear soluciones digitales escalables, intuitivas y fáciles de usar
 🔹 Busco seguir creciendo como **Backend/Full Stack Developer** y aportar valor en proyectos reales.
 
 📫 **Contacto:**  
-- LinkedIn: [Walter Sager](https://www.linkedin.com/in/walter-sager-082b27303/)  
+- LinkedIn: [Walter Sager](https://www.linkedin.com/in/waltersager)  
 - Email: walter.sager@gmail.com  
