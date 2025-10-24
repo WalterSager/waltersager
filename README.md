@@ -42,7 +42,7 @@ Me apasiona crear soluciones digitales escalables, intuitivas y fáciles de usar
 
 🔹 Valoro el **trabajo en equipo**, la **comunicación clara** y la **resolución de problemas**.  
 🔹 Me gusta aprender rápido y aportar en entornos colaborativos.  
-🔹 Busco seguir creciendo como **Backend/Full Stack Developer** y aportar valor en proyectos reales.
+🔹 Busco seguir creciendo como **Full Stack Developer** y aportar valor en proyectos reales.
 
 📫 **Contacto:**  
 - LinkedIn: [Walter Sager](https://www.linkedin.com/in/waltersager)  
