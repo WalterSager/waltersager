@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Walter Sager
 
 **Desarrollador Full Stack**  
-Apasionado por crear soluciones digitales **escalables, intuitivas y de alto rendimiento**, aplicando **buenas prácticas**, arquitectura limpia y metodologías modernas de desarrollo.
+Desarrollador Full Stack con foco en **arquitectura, escalabilidad y rendimiento**, aplicando buenas prácticas y metodologías modernas de desarrollo.
 
 ---
 
@@ -20,6 +20,10 @@ Apasionado por crear soluciones digitales **escalables, intuitivas y de alto ren
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazondynamodb&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-FF6D00?logo=n8n&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
 
 ---
@@ -44,16 +48,19 @@ Apasionado por crear soluciones digitales **escalables, intuitivas y de alto ren
   Plataforma integral para la gestión de reservas fijas, torneos, ranking de jugadores, noticias y carrusel dinámico.  
   Tecnologías: **React · Node.js · Express · MongoDB**
 
-🧩 *Próximamente:* **Web Vibras** — E-commerce moderno para una marca de indumentaria.  
-Stack: **Next · Express · MongoDB - AWS S3**
+  - [**Web Vibras**](https://vibras.site)  
+  E-commerce moderno para una marca de indumentaria.  
+  Tecnologías: **Next · Express · MongoDB - AWS S3**
 
 ---
 
 ## 💡 Sobre mí
 
-🔹 Valoro el **trabajo en equipo**, la **comunicación clara** y el **aprendizaje constante**.  
-🔹 Me enfoco en desarrollar software con **impacto real** y en seguir creciendo como **Full Stack Developer**.  
-🔹 Siempre busco mejorar cada línea de código y cada proyecto que toco.
+🔹 Diseño y construyo sistemas con foco en **arquitectura, escalabilidad y claridad**.  
+🔹 Tomo decisiones técnicas pensando en **impacto, costo y mantenimiento a largo plazo**.  
+🔹 Disfruto refactorizar, mejorar código existente y **reducir complejidad innecesaria**.  
+🔹 Me muevo cómodo tanto en **frontend** como en **backend**, con visión de **producto**.
+
 
 ---
 
@@ -65,4 +72,5 @@ Stack: **Next · Express · MongoDB - AWS S3**
 
 ---
 
-> “El código es mi forma de construir soluciones que mejoran el mundo digital — un commit a la vez.” 🚀
+> Construyo software pensando en impacto, mantenibilidad y buenas decisiones técnicas.
+
