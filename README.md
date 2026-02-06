@@ -48,7 +48,7 @@ Con foco en **arquitectura, escalabilidad y rendimiento**, aplicando buenas prá
   Plataforma integral para la gestión de reservas fijas, torneos, ranking de jugadores, noticias y carrusel dinámico.  
   Tecnologías: **React · Node.js · Express · MongoDB**
 
-  - [**Web Vibras**](https://vibras.site)  
+- [**Web Vibras**](https://vibras.site)  
   E-commerce moderno para una marca de indumentaria.  
   Tecnologías: **Next · Express · MongoDB - AWS S3**
 
