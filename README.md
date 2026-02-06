@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Walter Sager
 
 **Desarrollador Full Stack**  
-Desarrollador Full Stack con foco en **arquitectura, escalabilidad y rendimiento**, aplicando buenas prácticas y metodologías modernas de desarrollo.
+Con foco en **arquitectura, escalabilidad y rendimiento**, aplicando buenas prácticas y metodologías modernas de desarrollo.
 
 ---
 
