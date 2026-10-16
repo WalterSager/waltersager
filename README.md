@@ -39,7 +39,7 @@ Con foco en **arquitectura, escalabilidad y rendimiento**, aplicando buenas prá
   Permite confirmación por WhatsApp, integración con Google Maps y contador regresivo animado.  
   Tecnologías: **React · Vite · TailwindCSS · Framer Motion**
 
-- [**SagerFix**](https://sagerfix.store)  
+- [**SagerFix**]  
   Aplicación web para consultar y cotizar celulares disponibles (en stock o bajo pedido) en pesos argentinos, calculados a partir del valor del dólar blue.  
   Incluye catálogo filtrable, paginado y contacto directo vía WhatsApp.  
   Tecnologías: **Next.js · TypeScript · TailwindCSS - Google Sheets**
@@ -48,7 +48,7 @@ Con foco en **arquitectura, escalabilidad y rendimiento**, aplicando buenas prá
   Plataforma integral para la gestión de reservas fijas, torneos, ranking de jugadores, noticias y carrusel dinámico.  
   Tecnologías: **React · Node.js · Express · MongoDB**
 
-- [**Web Vibras**](https://vibras.site)  
+- [**Web Vibras**]  
   E-commerce moderno para una marca de indumentaria.  
   Tecnologías: **Next · Express · MongoDB - AWS S3**
 
